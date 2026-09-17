@@ -138,7 +138,7 @@ ipconfig                 # identify local IP + subnet
 
 ## 📂 Evidence
 
-Screenshots for each step (WHOIS, WhatWeb, Nslookup, Curl, Wafw00f, DNSRecon, Zenmap scan results, and topology map) are included in [`/evidence`](./evidence).
+Screenshots for each step (WHOIS, WhatWeb, Nslookup, Curl, Wafw00f, DNSRecon, Zenmap scan results, and topology map) are included in the folders above.
 
 ---
 

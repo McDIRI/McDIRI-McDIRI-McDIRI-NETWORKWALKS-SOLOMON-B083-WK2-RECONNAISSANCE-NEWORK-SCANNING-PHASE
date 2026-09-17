@@ -1,4 +1,4 @@
-# McDIRI-McDIRI-McDIRI-NETWORKWALKS-SOLOMON-B083-WK2-RECONNAISSANCE-NEWORK-SCANNING-PHASE
+# NETWORKWALKS-SOLOMON-B083-WK2-RECONNAISSANCE-NEWORK-SCANNING-PHASE
 
 <p align="center">
   <img src="https://img.shields.io/badge/Skill-Cybersecurity-404040?style=flat-square&labelColor=C00000" />

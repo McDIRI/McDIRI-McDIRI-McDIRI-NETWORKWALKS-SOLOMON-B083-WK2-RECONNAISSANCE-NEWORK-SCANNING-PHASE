@@ -93,7 +93,7 @@ ipconfig                 # identify local IP + subnet
 
 - Local subnet identified via `ipconfig`
 - **3 live hosts** discovered: `10.36.251.1`, `10.36.251.90`, `10.36.251.162`
-- 4 corresponding MAC addresses recorded
+- 3 corresponding MAC addresses recorded
 - Network topology exported as PDF via Zenmap's Topology view
 
 ---

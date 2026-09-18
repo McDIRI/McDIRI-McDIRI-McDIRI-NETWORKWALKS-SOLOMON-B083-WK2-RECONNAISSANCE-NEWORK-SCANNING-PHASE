@@ -137,7 +137,19 @@ ipconfig                 # identify local IP + subnet
 ---
 
 ## 📂 Evidence
-![image alt](KALI-TOOL/whois screenshut1.png)
+![image alt](https://github.com/McDIRI/NETWORKWALKS-SOLOMON-B083-WK2-RECONNAISSANCE-NEWORK-SCANNING-PHASE/blob/ade689c9168e63a91b01e0412f0c3dc8cd8c8a67/KALI-TOOL/whois%20screenshut1.png)
+
+![image alt](https://github.com/McDIRI/NETWORKWALKS-SOLOMON-B083-WK2-RECONNAISSANCE-NEWORK-SCANNING-PHASE/blob/ade689c9168e63a91b01e0412f0c3dc8cd8c8a67/KALI-TOOL/whatweb%20screenshut.png)
+
+![image alt](https://github.com/McDIRI/NETWORKWALKS-SOLOMON-B083-WK2-RECONNAISSANCE-NEWORK-SCANNING-PHASE/blob/ade689c9168e63a91b01e0412f0c3dc8cd8c8a67/KALI-TOOL/wafw00f%20screenshut.png)
+
+![image alt](https://github.com/McDIRI/NETWORKWALKS-SOLOMON-B083-WK2-RECONNAISSANCE-NEWORK-SCANNING-PHASE/blob/ade689c9168e63a91b01e0412f0c3dc8cd8c8a67/MALTEGO/Screenshot%20(52).png)
+
+![image alt](https://github.com/McDIRI/NETWORKWALKS-SOLOMON-B083-WK2-RECONNAISSANCE-NEWORK-SCANNING-PHASE/blob/ade689c9168e63a91b01e0412f0c3dc8cd8c8a67/MALTEGO/Screenshot%20(55).png)
+
+![image alt](https://github.com/McDIRI/NETWORKWALKS-SOLOMON-B083-WK2-RECONNAISSANCE-NEWORK-SCANNING-PHASE/blob/ade689c9168e63a91b01e0412f0c3dc8cd8c8a67/ZENMAP/Screenshot%20(69).png)
+
+![image alt](https://github.com/McDIRI/NETWORKWALKS-SOLOMON-B083-WK2-RECONNAISSANCE-NEWORK-SCANNING-PHASE/blob/ade689c9168e63a91b01e0412f0c3dc8cd8c8a67/ZENMAP/Screenshot%20(70).png)
 
 Screenshots for each step (WHOIS, WhatWeb, Nslookup, Curl, Wafw00f, DNSRecon, Zenmap scan results, and topology map) are included in the folders above.
 

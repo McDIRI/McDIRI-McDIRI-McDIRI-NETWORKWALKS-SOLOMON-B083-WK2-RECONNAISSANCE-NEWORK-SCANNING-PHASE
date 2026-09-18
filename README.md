@@ -137,6 +137,7 @@ ipconfig                 # identify local IP + subnet
 ---
 
 ## 📂 Evidence
+![image alt](KALI-TOOL/whois screenshut1.png)
 
 Screenshots for each step (WHOIS, WhatWeb, Nslookup, Curl, Wafw00f, DNSRecon, Zenmap scan results, and topology map) are included in the folders above.
 
